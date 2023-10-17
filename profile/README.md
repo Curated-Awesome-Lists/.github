@@ -25,4 +25,3 @@ In our quest for expansive data and an enriched user experience, we eagerly welc
 ## Support & Feedback 💖
 
 Every star ⭐ fuels our passion. Should our tools or any refined lists elevate your pursuits, do consider starring the repository. Feedback, pull requests, and issues are not only appreciated but wholeheartedly encouraged!
-
