@@ -4,7 +4,7 @@ Welcome to our Awesome List initiatives.  Starting with our AI tool called the *
 
 ## About Our Flagship Tool 🛠️
 
-- **Awesome List Generator** 📜✨: A Python-based tool that leverages GPT models to generate a foundational structure for awesome lists. The true essence of these lists emerges when human expertise takes over. Dive into the details at the [main repository](https://github.com/alialsaeedi19/GPT-Awesome-List-Generator).
+**Awesome List Generator** 📜✨: A Python-based tool that leverages GPT models to generate a foundational structure for awesome lists. The true essence of these lists emerges when human expertise takes over. Dive into the details at the [main repository](https://github.com/alialsaeedi19/GPT-Awesome-List-Generator).
 
 ## Featured Repositories 🌟
 
