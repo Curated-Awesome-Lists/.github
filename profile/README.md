@@ -11,6 +11,7 @@ Welcome to our Awesome List initiatives.  Starting with our AI tool called the *
 - [Awesome Auto-GPT](https://github.com/alronz/Awesome-Auto-GPT)
 - [Awesome Automatic1111 (a1111) Stable Diffusion WebUI](https://github.com/alronz/awesome-stable-diffusion-webui)
 - [Awesome AI Talking Heads](https://github.com/alronz/awesome-ai-talking-heads)
+- [Awesome DevOps Tools](https://github.com/Curated-Awesome-Lists/awesome-devops-tools)
 
 Desire a spotlight on your enhanced list? Kickstart one with our tool, refine it, and [let us know](https://github.com/alialsaeedi19/GPT-Awesome-List-Generator/issues/new)!
 
